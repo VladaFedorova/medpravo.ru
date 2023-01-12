@@ -1,0 +1,46 @@
+div {
+    color :rgb(196, 199, 198);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-align: center;
+    text-shadow: burlywood;
+    font-size: 20px;
+}
+
+h1 {
+    background-color: #0e233d;  
+}
+
+hr {
+    height: 2px;
+    background-color: #0e233d;
+}
+
+div.menu {
+    display: inline;
+}
+
+ul { 
+    margin: 0;
+    padding-left: 0;
+    text-align: center;
+}
+
+li {
+    display: inline;   
+    font-size: 20px; 
+    text-overflow: ellipsis;
+    margin-left: 18px;
+    margin-right: 18px;
+}
+
+a {
+    text-decoration: none;
+    color: cadetblue;
+}
+
+a:hover {
+    color: rgb(9, 43, 43);
+}
+
+
